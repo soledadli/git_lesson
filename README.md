@@ -1,5 +1,7 @@
 # CRI Bootcamp Expert: Git Hands on
 
+Hello
+
 ## Reminder
 The staging policy is composed of 4 steps that you can see in the following drawing:
 
