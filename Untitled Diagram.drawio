@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T17:16:37.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hm0vceKBc2UKmWxpvPxc" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-03T22:12:58.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="o0bX2FX-yBpor_jioQ2D" version="14.1.1" type="github">
   <diagram id="m_h8cTUxoRTylpWV9Ulv" name="Page-1">
-    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8734" dy="4093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-161" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1370" width="990" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-128" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="660" width="1100" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-80" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="780" y="210" width="999" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-74" value="理由" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="147.25" y="300" width="533.5" height="320" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-74" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;理由&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="292.5" width="760.75" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-1" target="WZqOZiryEhmWD19L1aOe-2">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +76,7 @@
         <mxCell id="WZqOZiryEhmWD19L1aOe-3" value="对未来&lt;b&gt;&lt;u&gt;焦虑&lt;/u&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-4" value="&lt;b&gt;累了, 想要休学一学期&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WZqOZiryEhmWD19L1aOe-4" value="&lt;b&gt;想要休&lt;/b&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%223.%20%E7%AA%81%E7%84%B6%E7%9A%84%E5%8F%98%E5%8C%96%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%AF%B9%E5%AD%A6%E4%B9%A0%E8%83%BD%E5%8A%9B%E6%80%80%E7%96%91.%20%E4%BA%A7%E7%94%9F%26lt%3Bb%26gt%3B%26lt%3Bu%26gt%3B%E6%B6%88%E6%9E%81%2C%20%E8%A2%AB%E5%8A%A8%E7%9A%84%E6%83%85%E7%BB%AA%26lt%3B%2Fu%26gt%3B%26lt%3B%2Fb%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bshadow%3D1%3BstrokeColor%3D%2367AB9F%3BfillColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22815%22%20y%3D%22980%22%20width%3D%22145%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;b&gt;&lt;br&gt;学一学期&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-9" value="&lt;b&gt;情绪表现的分解&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -135,9 +141,6 @@
         <mxCell id="WZqOZiryEhmWD19L1aOe-40" value="展览插画" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1110" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-41" value="剧团联系" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="580" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-43" value="学习" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="975" y="315" width="120" height="50" as="geometry" />
         </mxCell>
@@ -171,6 +174,9 @@
         <mxCell id="WZqOZiryEhmWD19L1aOe-57" value="晚上看科幻片和权利的游戏" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="1490" y="315" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-58" target="WZqOZiryEhmWD19L1aOe-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-58" value="1. 贬低自己数学网课取到的成绩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -190,92 +196,184 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-75" value="1. 之前一直在辛苦学习和解决精神健康问题, 没有好好休息过" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="150" height="150" as="geometry" />
+          <mxGeometry x="80" y="400" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-78" value="2. 休学一学期可在家里一边调整状态, 一边自学. 两全其美" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="490" y="370" width="166" height="160" as="geometry" />
+          <mxGeometry x="340" y="390" width="166" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-81" value="1. 记录客观表现&lt;br&gt;&lt;br&gt;2. 按照事情对心情的影响程度进行颜色标记" style="text;html=1;strokeColor=#67AB9F;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="230" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-84" value="3. 按颜色分析事情导致的情绪变化" style="text;html=1;strokeColor=#67AB9F;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="660" width="90" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-85" target="WZqOZiryEhmWD19L1aOe-100">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-84" value="3. &lt;b&gt;&lt;u&gt;描述遇到的困难&lt;/u&gt;&lt;/b&gt;或现在的状况&lt;br&gt;&lt;br&gt;4. 描述因此困难导致的情绪&lt;b&gt;&lt;u&gt;并分析原因&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;5. 描述因此情绪导致的&lt;b&gt;后果或因此产生的决定&lt;/b&gt;" style="text;html=1;strokeColor=#67AB9F;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1779" y="680" width="90" height="170" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-85" value="网课修数学学分&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="822.5" y="860" width="125" height="40" as="geometry" />
+          <mxGeometry x="822.5" y="680" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-86" value="合并计划书" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="1070" width="120" height="40" as="geometry" />
+          <mxGeometry x="1142.5" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-87" value="找实习" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="900" width="125" height="40" as="geometry" />
+          <mxGeometry x="985" y="680" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-88" value="论文插画" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="910" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-89" value="剧团联系" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1070" width="120" height="30" as="geometry" />
+          <mxGeometry x="1300" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WZqOZiryEhmWD19L1aOe-90" value="晚上看科幻片和权利的游戏" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="970" width="180" height="40" as="geometry" />
+          <mxGeometry x="1440" y="680" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-94">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1060" y="850" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-103" value="1. 原定一周能修完微积分导论的课, 然后再去修概率课. 但后来发现Week 2的课比较难, 需要拆分两天" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="815" y="740" width="145" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-94" target="WZqOZiryEhmWD19L1aOe-98">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1205" y="850" />
-              <mxPoint x="1205" y="850" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-104" value="2. 微积分导论课程所需时间一下被拉长, 导致后续计划会被延误" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="812.5" y="860" width="145" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-94" target="WZqOZiryEhmWD19L1aOe-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1334" y="780" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-105" value="情绪;&amp;nbsp;&lt;u style=&quot;font-weight: bold&quot;&gt;消极, 被动, 抑郁&lt;br&gt;&lt;/u&gt;&lt;br&gt;原因:&amp;nbsp;&amp;nbsp;&lt;br&gt;1. 每天一个Week的计划强度太大, 容易在遇到困难的时候产生抵触情绪&lt;br&gt;&lt;br&gt;2. 计划的突然滞后导致自己对自我学习能力产生怀疑&lt;br&gt;&lt;br&gt;2. 高中强压的学习坏境迫使自己难以接受学习上的落后(长期)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="980" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-94" value="感到&lt;b&gt;&lt;u&gt;抑郁, 消极, 悲观&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;b&gt;&lt;u&gt;没有动力&lt;/u&gt;&lt;/b&gt;做事" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1117.5" y="780" width="130" height="50" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-106" value="想中止网课" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1190" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-97" target="WZqOZiryEhmWD19L1aOe-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1450" y="880" />
-              <mxPoint x="1334" y="880" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-107" value="&lt;b&gt;想中断网课学习&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WZqOZiryEhmWD19L1aOe-97" target="WZqOZiryEhmWD19L1aOe-98">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1440" y="830" />
-              <mxPoint x="1260" y="830" />
-              <mxPoint x="1260" y="895" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-109" value="1. 3月前就必须要找到份长达3-6个月的简历. 但非常不情愿投简历, 目前只在12底投出去了6份.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="975" y="740" width="145" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-97" value="对未来&lt;b&gt;&lt;u&gt;焦虑&lt;/u&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-110" value="2. 在改简历, 更新GitHub, 完善代码和分析都上非常拖延" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="970" y="860" width="145" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-98" value="2. 认为自己可能找不到相关的实习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-111" value="情绪;&amp;nbsp;&lt;u style=&quot;font-weight: bold&quot;&gt;自卑, 被动, 焦虑&lt;br&gt;&lt;/u&gt;&lt;br&gt;原因: &lt;br&gt;1. 刚开始转专业, 对自己的能力非常不自信. 总感觉其他人可能会比我更符合要求&lt;br&gt;&lt;br&gt;2. 之前只有文化项目的经验, 毫无公司实习经验, 导致对面试和在公司实习即害怕又焦虑" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="970" y="980" width="155" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-99" value="3. 认为自己可能没法顺利转专业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1274" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-115" value="拖延有关实习申请的事情" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="979.5" y="1190" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-100" value="1. 贬低自己数学网课取到的成绩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-116" value="1. 一直在思考着如何完善计划, 而迟迟未开始修改" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="740" width="145" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WZqOZiryEhmWD19L1aOe-103" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="820" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="WZqOZiryEhmWD19L1aOe-117" value="情绪;&amp;nbsp;&lt;u style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;焦虑, 害怕&lt;br&gt;&lt;/u&gt;&lt;br&gt;原因: &lt;br&gt;1. 目前和搭档要制定项目总计划, 承担运营. 害怕出错, 做不好&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="860" width="155" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-119" value="1. 一直在思考着如何画得更好 而迟迟未开始画初稿" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1287.5" y="740" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-120" value="情绪;&amp;nbsp;&lt;u style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;焦虑, 害怕&lt;br&gt;&lt;/u&gt;&lt;br&gt;原因: &lt;br&gt;1. 之前的约稿都是自然创作. 但这次是委托创作, 所以害怕达不到对方的预期值." style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="860" width="147.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-121" value="&lt;b&gt;&lt;u&gt;表现:&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. 看到暴力场景的时候特别害怕. &lt;br&gt;2. 看完当晚容易做噩梦, 譬如遇见去世的亲人" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="740" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-123" value="拖延" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="990" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-124" value="拖延" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="990" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-125" value="想休学一学期" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1250" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-126" value="加重焦虑" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="1060" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-127" value="有关亲人的噩梦加剧抑郁情绪" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="880" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-130" value="6. 制定解决方案" style="text;html=1;strokeColor=#67AB9F;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1662.5" y="1400" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-131" value="网课修数学学分&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="841.5" y="1400" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-132" value="合并计划书" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-133" value="找实习" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="999.5" y="1400" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-134" value="论文插画" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1324.5" y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-135" value="晚上看科幻片和权利的游戏" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0A0A08;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1459" y="1400" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-136" value="&lt;br&gt;1.1&amp;nbsp;&lt;b&gt;肯定自己的成果&lt;/b&gt;: 6年没学数学了, 一开始就微积分导论. 自己了解大部分知识点, 只是运算比较生疏" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1450" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-137" value="&lt;br&gt;1.2. &lt;b&gt;修改学习计划:&amp;nbsp; &lt;br&gt;&amp;nbsp;改为2-3天1 Week,&lt;br&gt;&amp;nbsp;周日休息&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="829.5" y="1580" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-138" value="&lt;br&gt;2.&lt;b&gt;&amp;nbsp;告诉自己身边的环境已经不同了. 包容自己慢慢来和犯错&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="829.5" y="1710" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-139" value="&lt;br&gt;1.1&amp;nbsp;&lt;b&gt;肯定自己的成果&lt;/b&gt;: Github 1个repsitory 的建立; 可熟练用Pandas操作数据; 对概念的掌握非常牢靠; 已经开始学微积分" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="999.5" y="1450" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-140" value="&lt;br&gt;1.2 写信给授课老师, 跟他们讲我的担心. 不自卑寻求帮助" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="999.5" y="1580" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-141" value="&lt;br&gt;2.2 做好可能找不到实习的&lt;b&gt;准备&lt;/b&gt;. 即使自己找不到实习, 也可以去学校的Game Lab设计桌游, 做自己的项目. 做自己的项目虽然可能会让我缺少公司里的工作经验, 但我依然也能学到很多, 并且可以把自己之前的想法都慢慢实现.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="999.5" y="1753.5" width="145" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-142" value="&lt;br&gt;2.1 设定&lt;b&gt;实习资料库&lt;/b&gt;. 在Youtube上学习其他人的面试经验. 查漏补缺需要学的硬知识" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="999.5" y="1660" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-143" value="&lt;br&gt;1.1 跟合作方&lt;b&gt;主动表达自己的忧虑&lt;/b&gt;. 承认自己有顾虑以及害怕的点. 承认害怕不可耻. 只有这样才能提高, 才能让大家知道你需要帮助, 才可以让事情做得更好.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1161.5" y="1450" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-144" value="&lt;br&gt;1.1 先跟对方提交想法, 在想法确定后提交初稿. 在每个重要环节都跟对方&lt;b&gt;进行沟通&lt;/b&gt;, 若没法完成对方的要求的话, 也可以帮对方试着找到其他符合风格的插画师" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1319.5" y="1450" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-145" value="&lt;br&gt;1.1 改为看&lt;b&gt;喜剧片&lt;/b&gt;, 避免会导致情感大幅变化或注意力过度集中的 动作片, 科幻片" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1476.5" y="1450" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-146" value="过节期间和男友家人频繁聚会" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1635" y="677.5" width="130" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-147" value="&lt;b&gt;&lt;u&gt;表现:&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. 聚会消耗太多精力, 聚会完后容易非常敏感, 一天都不想讲话" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="740" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-148" value="小组成员太强势" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1637.5" y="945" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-149" value="&lt;b&gt;&lt;u&gt;表现:&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. 几次被迫进行长时间低效的电话沟通, 感到自己的个人时间未被尊重&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1625" y="1000" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-150" value="和个别学生有复杂的人际关系" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1642.5" y="1160" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-151" value="&lt;b&gt;&lt;u&gt;表现:&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. 感到被道德绑架" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1625" y="1214" width="145" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-152" value="长时间聚会后会导致恐慌发作" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="880" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-153" value="加重焦虑" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1627.5" y="1100" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-154" value="加重焦虑" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="1624.5" y="1280" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-155" value="过节期间和男友家人频繁聚会" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1176.5" y="1608.75" width="130" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-156" value="小组成员太强势" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1347.5" y="1611.25" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-157" value="和个别学生有复杂的人际关系" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1611.25" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-158" value="&lt;br&gt;1.1 和男友沟通, 允许自己在疲惫的时候提前离场" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1168" y="1684" width="145" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-159" value="&lt;br&gt;1.1 告知成员自己的时间安排和底线, 勇于说不" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1684" width="145" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-160" value="&lt;br&gt;1.1 在不起正面冲突的情况下, 远离对方" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1494" y="1684" width="145" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqOZiryEhmWD19L1aOe-162" value="此次导致情绪变化的原因:&lt;br&gt;&lt;br&gt;1. 延续一个“好学生”的想法, 害怕自己学的不够快,不够好, 而产生自卑, 悲观和焦虑的情绪, 导致想要逃避&lt;br&gt;&lt;br&gt;2. 个人项目上: 产生顾虑后, 未能跟对方及时沟通, 导致焦虑的情绪发生 (寻求帮助不可耻)&amp;nbsp;&lt;br&gt;&lt;br&gt;3. 个人情感上: 对自己的界限不够坚持, 导致复杂和强烈的情绪消耗让自己产生恐慌" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#67AB9F;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2020" width="290" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
